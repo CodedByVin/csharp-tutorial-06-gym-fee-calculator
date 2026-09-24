@@ -1,6 +1,6 @@
 # C# Windows Forms: Gym Fee Calculator
 
-This repository contains the completed source code for Tutorial #5 on my YouTube channel. It demonstrates how to process multi-variable numeric inputs, apply VAT and fee calculation logic, and display formatted currency outputs using C# and Windows Forms.
+This repository contains the completed source code for Tutorial #6 on my YouTube channel. It demonstrates how to process multi-variable numeric inputs, apply VAT and fee calculation logic, and display formatted currency outputs using C# and Windows Forms.
 
 **📺 Watch the full tutorial here:** (https://www.youtube.com/@CodedByVin).
 
